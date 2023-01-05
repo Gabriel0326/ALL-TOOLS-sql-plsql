@@ -67,7 +67,7 @@ DECODE
 LENGTH              (tamanho de uma string)
 CONCAT              (concat = || )  (concatenar/juntar strings)
 NVL
-CASE
+CASE                (case / when)
 COALESCE
 
 
