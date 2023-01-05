@@ -1,0 +1,56 @@
+--- ******** Basic 1.1 ********** ---
+Select
+From
+Where
+
+and
+or
+
+Between
+not between
+
+like          (compare strings)  (can use: % or _ )
+not like      (compare strings)  (can use: % or _ )
+
+in            (compare subquery or list of values)
+not in        (compare subquery or list of values)
+
+is null
+is not null
+all
+any
+
+as "Nome da coluna"
+
+
+
+--- ******** Basic 1.2 ********** ---
+Group by
+Having
+Order by
+
+MIN      (SQL functions)
+MAX      (SQL functions)
+SUM      (SQL functions)
+AVG      (SQL functions)
+COUNT    (SQL functions)       
+
+(subquery)
+EXITS
+ROWNUN
+DISTINCT
+EXCEPT
+
+Inner join
+Left join
+Right join
+Full Join
+
+UNION
+UNION ALL
+
+to_char
+to_number
+to_date
+
+
