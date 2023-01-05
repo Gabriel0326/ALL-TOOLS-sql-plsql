@@ -68,6 +68,6 @@ LENGTH              (tamanho de uma string)
 CONCAT              (concat = || )  (concatenar/juntar strings)
 NVL
 CASE                (case / when)
-COALESCE
+COALESCE            (returns the first non-null expression in the list.)
 
 
