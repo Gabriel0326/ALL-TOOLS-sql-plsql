@@ -65,7 +65,7 @@ REPLACE
 SUBSTR
 DECODE
 LENGTH              (tamanho de uma string)
-CONCAT
+CONCAT              (concat = || )  (concatenar/juntar strings)
 NVL
 CASE
 COALESCE
