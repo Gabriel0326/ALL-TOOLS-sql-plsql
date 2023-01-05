@@ -49,8 +49,24 @@ Full Join
 UNION
 UNION ALL
 
+
+--- ******** Intermediare ********** ---
+
+
 to_char
 to_number
 to_date
+
+UPPER
+LOWER
+
+REPLACE
+SUBSTR
+DECODE
+LENGHT
+CONCAT
+NVL
+CASE
+COALESCE
 
 
