@@ -62,12 +62,22 @@ UPPER
 LOWER
 
 REPLACE             (replaces a sequence of characters in a string with another set of characters.)   REPLACE( string1, string_to_replace [, replacement_string] )
-SUBSTR              (allows you to extract a substring from a string.)  (Ex:   SUBSTR('This is a test', 1, 4)      Result: 'This'  )   SUBSTR( string, start position [,length])
+
+
+SUBSTR              (allows you to extract a substring from a string.)
+                    (Ex:   SUBSTR('This is a test', 1, 4)      Result: 'This'  )
+                    SUBSTR( string, start position [,length])
+                    
 DECODE              (functionality of an IF-THEN-ELSE statement.)
+
 LENGTH              (tamanho de uma string)    
+
 CONCAT              (concat = || )  (concatenar/juntar strings)
+
 NVL
+
 CASE                (case / when)
+
 COALESCE            (returns the first non-null expression in the list.)
 
 
