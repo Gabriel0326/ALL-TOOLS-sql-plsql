@@ -62,7 +62,8 @@ UPPER
 LOWER
 
 REPLACE
-SUBSTR
+SUBSTR              (allows you to extract a substring from a string.) (Ex:   SUBSTR('This is a test', 1, 4)      Result: 'This'  )
+
 DECODE
 LENGTH              (tamanho de uma string)
 CONCAT              (concat = || )  (concatenar/juntar strings)
