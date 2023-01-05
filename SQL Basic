@@ -64,7 +64,7 @@ LOWER
 REPLACE
 SUBSTR
 DECODE
-LENGHT             (tamanho de uma string)
+LENGTH              (tamanho de uma string)
 CONCAT
 NVL
 CASE
