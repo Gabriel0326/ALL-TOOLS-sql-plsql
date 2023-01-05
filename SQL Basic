@@ -38,6 +38,7 @@ COUNT    (SQL functions)
 (subquery)
 EXITS
 ROWNUN
+ROUND
 DISTINCT
 EXCEPT
 
