@@ -82,3 +82,9 @@ CASE                (case / when)
 COALESCE            (returns the first non-null expression in the list.)
 
 
+insert into 
+select into
+delete from 
+
+
+
