@@ -37,8 +37,8 @@ COUNT    (SQL functions)
 
 (subquery)
 EXITS
-ROWNUN
-ROUND
+ROWNUN  
+ROUND       ROUD(AVG(salary),2)
 DISTINCT
 EXCEPT
 
@@ -86,5 +86,6 @@ insert into select
 select into
 delete from 
 
-
+%type;
+%rowtype;
 
