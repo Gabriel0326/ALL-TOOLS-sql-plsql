@@ -1,0 +1,3 @@
+to_char   ---   Exemple:   where to_char(b.dtassinatura,'yyyy') >= 2020
+to_number ---   Exemple:   where to_number(b.valorTotal,'9999.99') > '1000.00'
+to_date   ---   Exemple:   select to_date('070903', 'MMDDYY') from x  --- Output: date value of July 9, 2003
