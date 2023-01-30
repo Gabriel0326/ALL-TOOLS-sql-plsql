@@ -1,5 +1,0 @@
-to_char   ---   Exemple:   WHERE to_char(b.dtassinatura,'yyyy') >= 2020
-to_number ---   Exemple:   WHERE to_number(b.valorTotal,'9999.99') > '1000.00'
-to_date   ---   Exemple:   SELECT to_date('070903', 'MMDDYY') FROM x                              --- Output: date value of July 9, 2003
-                Exemple2:  SELECT to_date('2015/05/15 8:30:25', 'YYYY/MM/DD HH:MI:SS') FROM dual; --- Output: Convert to a date value
- 
